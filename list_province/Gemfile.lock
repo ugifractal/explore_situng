@@ -1,0 +1,18 @@
+GEM
+  specs:
+    faraday (0.15.4)
+      multipart-post (>= 1.2, < 3)
+    json (2.2.0)
+    multipart-post (2.0.0)
+    openssl (2.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  faraday
+  json
+  openssl (>= 2.0.3)
+
+BUNDLED WITH
+   2.0.1

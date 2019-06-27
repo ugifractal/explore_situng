@@ -1,0 +1,4 @@
+gem "faraday"
+gem "json"
+gem 'openssl', '>=2.0.3'
+
